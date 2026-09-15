@@ -10,6 +10,12 @@ organic fog.
 - Shared noise textures between matching active widgets
 - No third-party runtime dependencies or external image assets
 
+## Preview
+
+| Organic reveal | Custom styles |
+| :---: | :---: |
+| ![Organic fog reveal on a Flutter card](screenshots/fog_reveal_demo.png) | ![Demo, dark, and mist fog styles](screenshots/fog_reveal_styles.png) |
+
 ## Installation
 
 ```sh

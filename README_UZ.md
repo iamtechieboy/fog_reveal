@@ -3,6 +3,12 @@
 Flutter’dagi rasm, card yoki istalgan widgetni organik tuman orqali ochib
 beradigan yengil shader paketi.
 
+## Ko‘rinishi
+
+| Organik reveal | Custom stillar |
+| :---: | :---: |
+| ![Flutter card ustidagi organik fog reveal](screenshots/fog_reveal_demo.png) | ![Demo, dark va mist fog stillari](screenshots/fog_reveal_styles.png) |
+
 ## O‘rnatish
 
 ```sh

@@ -1,6 +1,6 @@
-# Publishing 0.0.1
+# Publishing releases
 
-Prepared locally; publication is deferred until requested by the owner.
+Version `0.0.1` is published. Follow this checklist for later releases.
 
 1. Confirm package-name availability in the intended pub.dev account and keep the
    MIT copyright attribution accurate. If renaming, also update imports, the

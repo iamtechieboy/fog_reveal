@@ -1,3 +1,8 @@
+## 0.0.2
+
+- Add pub.dev screenshots showing the default reveal and customizable styles.
+- Add the same visual preview to the English and Uzbek package READMEs.
+
 ## 0.0.1
 
 - Initial release of the organic fog reveal shader for Flutter widgets and

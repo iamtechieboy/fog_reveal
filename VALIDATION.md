@@ -1,4 +1,4 @@
-# Validation — 0.0.1
+# Validation — 0.0.2
 
 Checked on 2026-09-15 with the local stable Flutter toolchain.
 
@@ -11,10 +11,10 @@ Checked on 2026-09-15 with the local stable Flutter toolchain.
 | Consumer example tests | Passed, 7 tests |
 | Release web build | Passed |
 | Flutter build Wasm dry run | Passed |
-| `flutter pub publish --dry-run` | Valid 80 KiB archive, no warnings |
+| `flutter pub publish --dry-run` | Valid 322 KB archive, no warnings |
 
-The dry run did not upload anything. The package metadata points to the public
-source repository and validation completes without warnings.
+The dry run does not upload anything. The package metadata points to the public
+source repository and includes two pub.dev screenshots.
 
 Tests cover the real packaged shader, organic pixel output and endpoints,
 declarative loader state changes, controller playback, progress clamping,
