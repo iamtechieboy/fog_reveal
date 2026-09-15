@@ -1,0 +1,23 @@
+name: fog_reveal
+description: A lightweight, customizable organic fog reveal for Flutter images and widgets, powered by a fragment shader and shared seeded noise.
+version: 0.0.1
+repository: https://github.com/iamtechieboy/fog_reveal
+topics:
+  - animation
+  - effects
+  - shader
+  - widgets
+  - ui-effects
+environment:
+  sdk: '>=3.6.0 <4.0.0'
+  flutter: '>=3.27.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter:
+  shaders:
+    - shaders/fog_reveal.frag

@@ -1,0 +1,21 @@
+name: Flutter package
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: 3.35.4
+      - run: flutter pub get
+      - run: flutter pub get
+        working-directory: example
+      - run: dart format --output=none --set-exit-if-changed lib test example/lib example/test
+      - run: flutter analyze
+      - run: flutter test
+      - run: flutter test
+        working-directory: example
+      - run: flutter build web --release
+        working-directory: example

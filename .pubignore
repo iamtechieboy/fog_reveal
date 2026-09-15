@@ -1,0 +1,14 @@
+.dart_tool/
+**/.dart_tool/
+build/
+**/build/
+**/.idea/
+**/*.iml
+**/.DS_Store
+**/Flutter/ephemeral/
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_export_environment.sh
+**/GeneratedPluginRegistrant.*
+pubspec.lock
+example/pubspec.lock
+.github/
