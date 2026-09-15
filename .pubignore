@@ -2,6 +2,7 @@
 **/.dart_tool/
 build/
 **/build/
+doc/
 **/.idea/
 **/*.iml
 **/.DS_Store
