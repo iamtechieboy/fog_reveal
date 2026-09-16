@@ -14,7 +14,7 @@ organic fog.
 
 | Organic reveal | Custom styles |
 | :---: | :---: |
-| ![Organic fog reveal on a Flutter card](screenshots/fog_reveal_demo.png) | ![Demo, dark, and mist fog styles](screenshots/fog_reveal_styles.png) |
+| ![Organic fog reveal on a Flutter card](<img src="https://raw.githubusercontent.com/iamtechieboy/fog_reveal/main/screenshots/fog_reveal_demo.png" alt="banner"/>) | ![Demo, dark, and mist fog styles](<img src="https://raw.githubusercontent.com/iamtechieboy/fog_reveal/main/screenshots/fog_reveal_styles.png" alt="banner"/>) |
 
 ## Installation
 

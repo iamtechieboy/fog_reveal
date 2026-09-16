@@ -1,3 +1,7 @@
+## 0.0.3
+
+- Fixed pub.dev screenshots
+
 ## 0.0.2
 
 - Add pub.dev screenshots showing the default reveal and customizable styles.
